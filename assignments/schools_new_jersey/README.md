@@ -1,7 +1,4 @@
-# School Assignment: NJ Schools Data Analysis - Yevhen (Eugene) Zinchenko
-
-Tools: Python, pandas, SQL, Tableau, BigQuery
-Directory: 
+# School Assignment: NJ Schools Data Analysis
 
 Use the 3 data sources below to produce an analysis and a visualization, ranking:
 
@@ -21,6 +18,15 @@ https://www.nj.gov/education/doedata/enr/
 
 ### Approach
 
+Tools: Python, pandas, SQL, Tableau, BigQuery
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
 
 -----
 
@@ -30,8 +36,8 @@ https://www.nj.gov/education/doedata/enr/
 - src/    -> data pipeline scripts
 - sql/    -> analytical queries
 - reports/    -> analysis summary
-- README.md    -> about projectt
-‘‘‘
+- README.md    -> about project
+’’’
 
 Preferred name: Eugene
 
