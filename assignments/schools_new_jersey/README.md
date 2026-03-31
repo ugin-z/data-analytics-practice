@@ -31,13 +31,13 @@ Tools: Python, pandas, SQL, Tableau, BigQuery
 -----
 
 ### Structure
-’’’
+```
 - data/    -> raw, clean, mart layers
 - src/    -> data pipeline scripts
 - sql/    -> analytical queries
 - reports/    -> analysis summary
 - README.md    -> about project
-‘‘‘
+```
 
 Preferred name: Eugene
 
