@@ -37,7 +37,7 @@ Tools: Python, pandas, SQL, Tableau, BigQuery
 - sql/    -> analytical queries
 - reports/    -> analysis summary
 - README.md    -> about project
-’’’
+‘‘‘
 
 Preferred name: Eugene
 
