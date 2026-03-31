@@ -31,7 +31,7 @@ Tools: Python, pandas, SQL, Tableau, BigQuery
 -----
 
 ### Structure
-‘‘‘
+’’’
 - data/    -> raw, clean, mart layers
 - src/    -> data pipeline scripts
 - sql/    -> analytical queries
