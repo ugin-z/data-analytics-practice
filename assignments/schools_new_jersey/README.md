@@ -58,20 +58,16 @@ Tools: MySQL, Tableau
         .csv since the file was small.
         Another challenge was identifying the correct keys to join the datasets. I needed to understand the difference between LEA ID and NCES ID, so I researched their meaning and confirmed how they            match across datasets.
 
-2. 
+2.
     a.  Title I student distribution (grades 5–8) is dominated by Bergen County, with other counties showing significantly lower values.
 
     b.  The distribution of Title I students (grades 5–8) is uneven across districts, with a concentration in a limited number of schools.
 
 3.  
-    a.  [MySQL code #1: Title I Students (Grades 5-8) Analysis by County — New Jersey, 2024-2025]
-        (https://github.com/ugin-z/data-analytics-practice/blob/main/assignments/schools_new_jersey/sql/county_analysis.sql)
+    a.  [MySQL code #1: Title I Students (Grades 5-8) Analysis by County — New Jersey, 2024-2025](https://github.com/ugin-z/data-analytics-practice/blob/main/assignments/schools_new_jersey/sql/county_analysis.sql)
         [MySQL code #2: Title I Students (Grades 5-8) Analysis by District and School — New Jersey, 2024-2025](https://github.com/ugin-z/data-analytics-practice/blob/main/assignments/schools_new_jersey/sql/district_analysis.sql)
 
     b.  [Dashboard #1: Title I Students (Grades 5-8) Analysis by County — New Jersey, 2024-2025](https://public.tableau.com/app/profile/yevhen.zinchenko/viz/analysis_nj_county_school/AnalysisbyCounty)
         [Dashboard #2: Title I Students (Grades 5-8) Analysis by District and School — New Jersey, 2024-2025](https://public.tableau.com/app/profile/yevhen.zinchenko/viz/analysis_nj_distr_school/AnalysisbyDistrictandSchool)
 
-
-
-THANK YOU FOR REVIEWING THIS PROJECT!
-
+    
