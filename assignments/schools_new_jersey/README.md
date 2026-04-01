@@ -44,7 +44,6 @@ Tools: MySQL, Tableau
         - Excel files were converted to .csv, selecting the relevant sheet
         - Existing .csv files were used without modification
         - The .pdf file was manually converted into a structured format by copying the data into Excel, cleaning it, and exporting it as .csv
-
         Due to the relatively small size of the .pdf file, I chose manual processing instead of using automated tools such as Python libraries.
 
     b.  I merged the datasets using common identifiers across sources.
@@ -57,8 +56,7 @@ Tools: MySQL, Tableau
 
     d.  One challenge was extracting data from the PDF file. I was not sure which method to use, so I chose to manually copy the data into Excel, clean it, and convert it to 
         .csv since the file was small.
-
-        Another challenge was identifying the correct keys to join the datasets. I needed to understand the difference between LEA ID and NCES ID, so I researched their meaning and confirmed how they match across datasets.
+        Another challenge was identifying the correct keys to join the datasets. I needed to understand the difference between LEA ID and NCES ID, so I researched their meaning and confirmed how they            match across datasets.
 
 2. 
     a.  Title I student distribution (grades 5–8) is dominated by Bergen County, with other counties showing significantly lower values.
@@ -67,7 +65,7 @@ Tools: MySQL, Tableau
 
 3.  
     a.  [MySQL code #1: Title I Students (Grades 5-8) Analysis by County — New Jersey, 2024-2025]([https://public.tableau.com/app/profile/yevhen.zinchenko/viz/analysis_nj_county_school/AnalysisbyCounty](https://github.com/ugin-z/data-analytics-practice/blob/main/assignments/schools_new_jersey/sql/county_analysis.sql))
-        [MySQL code #2: Title I Students (Grades 5-8) Analysis by District and School — New Jersey, 2024-2025](https://public.tableau.com/app/profile/yevhen.zinchenko/viz/analysis_nj_distr_school/AnalysisbyDistrictandSchool)
+        [MySQL code #2: Title I Students (Grades 5-8) Analysis by District and School — New Jersey, 2024-2025]([https://public.tableau.com/app/profile/yevhen.zinchenko/viz/analysis_nj_distr_school/AnalysisbyDistrictandSchool](https://github.com/ugin-z/data-analytics-practice/blob/main/assignments/schools_new_jersey/sql/district_analysis.sql))
 
     b.  [Dashboard #1: Title I Students (Grades 5-8) Analysis by County — New Jersey, 2024-2025](https://public.tableau.com/app/profile/yevhen.zinchenko/viz/analysis_nj_county_school/AnalysisbyCounty)
         [Dashboard #2: Title I Students (Grades 5-8) Analysis by District and School — New Jersey, 2024-2025](https://public.tableau.com/app/profile/yevhen.zinchenko/viz/analysis_nj_distr_school/AnalysisbyDistrictandSchool)
