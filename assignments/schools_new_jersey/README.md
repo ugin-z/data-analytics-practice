@@ -4,6 +4,8 @@
 
 **Tools:** MySQL, Tableau
 
+----
+
 #### 1. Process
 
 ##### a. How did you extract the data?
@@ -15,8 +17,6 @@ After reviewing the files, I standardized them into a consistent .csv format for
 - The .pdf file was manually converted into a structured format by copying the data into Excel, cleaning it, and exporting it as .csv
 Due to the relatively small size of the .pdf file, I chose manual processing instead of using automated tools such as Python libraries.
 
------
-
 ##### b. How did you merge the data together?
 
 I merged the datasets using common identifiers across sources.
@@ -24,14 +24,10 @@ The enrollment data was joined with the school directory using the District Code
 To identify Title I districts, I matched the datasets using NCES ID, which corresponds to the LEA ID in the Title I dataset.
 Inner joins were applied to ensure that only records present in all relevant datasets were included in the final analysis.
 
------
-
 ##### c. What language did you use for the analysis?    
 
 I used SQL (MySQL) for data cleaning, joining tables, and calculating student numbers. 
 The final analysis was visualized in Tableau with interactive dashboards.
-
------
 
 ##### d. What challenges did you have and how did you overcome them?
 
